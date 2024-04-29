@@ -8,8 +8,7 @@ This repository contains a Jupyter Notebook focused on the computational theory 
 
 - Explanation of the game's rules and objectives.
 - Analysis of the game's computational complexity.
-- Description of the solution strategy used in our solve_numbers function.
-- Presentation of function usage examples and the functional programming techniques implemented.
+- Description of the solution strategy used in the `solve_numbers` function.
 
 This approach provides a concise understanding of both the theoretical framework and practical application necessary for tackling the numerical challenges of the Countdown game.
 
