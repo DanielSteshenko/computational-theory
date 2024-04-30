@@ -9,13 +9,16 @@ This repository contains a Jupyter Notebook that delves into the computational a
 
 ## Countdown Game Rules
 
-- **Number Selection:** Participants are given six numbers from two pools: large numbers, which consist of any of the following numbers: 25, 50, 75, 100 and small numbers, which consist of numbers between 1 to 10.
-- **Target Number: A target number between 101 and 999.
-- **Allowed Operations: Players can use addition, subtraction, multiplication, and division.
-- **Goal:** Reach the target number using the given numbers and operations. Operations must return integer results. Each number can only be used once per game. Whatever participant reaches the target number or is the closest wins the game.
+- Participants are given six numbers from two pools: one pool, which consists of any of the following numbers: 25, 50, 75, 100 and the second pool, which consists of numbers between 1 to 10.
+- A target number between 101 and 999.
+- Players can use addition, subtraction, multiplication, and division.
+- The goal is to reach the target number using the given numbers and operations.
+- The Operations must return integer results.
+- Each number can only be used once per game.
+- Whichever participant reaches the target number or is the closest wins the game.
 
 ## Project Objectives
-- Investigate the computational challenges found in the Countdown Numbers Game.
+- Investigate the challenges found in the Countdown Numbers Game.
 - To effectively solve the game, develop, implement, and evaluate different algorithms, including brute-force, heuristic algorithms, and dynamic programming approaches.
 - To explore various computational strategies, Using the `solve_numbers` function and `solve_numbers_ha_rpn` that uses Heurtistic Algorithms with Reverse Polish Notation and `solve_numbers_dp` for dynamic programming.
 - Review the efficiency and computational complexity of each method used.
@@ -50,7 +53,7 @@ Follow these steps to run this repository on your machine:
    cd computational-theory
    ```
 3. **Open the project in an IDE or Jupyter Notebook**
-   You can open the project files in any IDE like Visual Studio Code or in Jupyter Notebook if you prefer. To open the project in Jupyter Notebook, ensure you have Jupyter installed, and then run the following command from the project directory:
+   You can open the project files in any IDE, like Visual Studio Code or Jupyter Notebook. To open the project in Jupyter Notebook, ensure you have Jupyter installed, and then run the following command from the project directory:
    ```bash
    jupyter notebook
    ```
@@ -63,15 +66,15 @@ For those who prefer not to install software locally, GitHub Codespaces provides
     - Open the repository in your web browser.
 
 2. **Start your Codespace:**
-    - Go to the `Code` button and select `Codespaces`, and then select `Create codespace on main`.
-    - A new tab will open in your browser, just wait for it to load and then move onto the next time.
+    - Go to the `Code` button, select `Codespaces`, and then select `Create codespace on main`.
+    - A new tab will open in your browser; just wait for it to load and then move on the next time.
 3. **Run Jupyter Notebook:
     - Within Codespaces, open a terminal and type:
     ```bash
         gh cs jupyter
     ```
     - Select the current repository
-    - Copy the token within the url, for example:
+    - Copy the token within the URL, for example:
     ```bash
     http://localhost:46649/?token=COPY_TOKEN_FROM_HERE
     ```
