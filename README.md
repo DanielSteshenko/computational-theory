@@ -1,17 +1,16 @@
-# Computational Theory 2023 
+# Computational Theory 2023
 #### Daniel Steshenko | G00380007
 ## Countdown Numbers Game
 
+![Countdown Numbers Game](https://countdownnumbersgame.com/countdownimage.webp)
 
 This repository contains a Jupyter Notebook focused on the computational theory behind solving the Countdown numbers game. The content covers:
 
-
-- Explanation of the game's rules and objectives.
-- Analysis of the game's computational complexity.
-- Description of the solution strategy used in the `solve_numbers` function.
+- **Explanation of the game's rules and objectives:** Detailed overview of how the game is played and what the goals are.
+- **Analysis of the game's computational complexity:** Insights into the mathematical and algorithmic challenges presented by the game.
+- **Description of the solution strategy used in the `solve_numbers` function:** A breakdown of the algorithms and methods implemented to solve the game challenges.
 
 This approach provides a concise understanding of both the theoretical framework and practical application necessary for tackling the numerical challenges of the Countdown game.
-
 
 ## Overview
 
@@ -19,25 +18,27 @@ This approach provides a concise understanding of both the theoretical framework
 
 ## Prerequisites
 
-1. [Git](https://git-scm.com/downloads)
-2. [Python 3.x & Pip](https://www.python.org/downloads/)
-3. [Jupyter Notebook](https://jupyter.org/install) or Any IDE like [Visual Studio Code](https://code.visualstudio.com/download)
+To run the notebook effectively, ensure you have the following installed:
+
+1. [Git](https://git-scm.com/downloads) - For cloning the repository.
+2. [Python 3.x & Pip](https://www.python.org/downloads/) - For running the Python code.
+3. [Jupyter Notebook](https://jupyter.org/install) or any IDE like [Visual Studio Code](https://code.visualstudio.com/download) - For interacting with the notebook.
 
 ## Getting Started
 
 Follow these steps to run this repository on your machine:
 
 1. **Clone this repository:**
-    ```bash
-    git clone https://github.com/DanielSteshenko/computational-theory.git
-    ```
-
+   ```bash
+   git clone https://github.com/DanielSteshenko/computational-theory.git
+   ```
 2. **Navigate to the cloned directory:**
-    ```bash
-    cd computational-theory
-    ```
-3. **Open the project in an IDE or Jupyter Notebook:**
-    You can open the project files in any IDE like Visual Studio Code, or directly in Jupyter Notebook if you prefer. To open the project in Jupyter Notebook, ensure you have Jupyter installed, and then run the following command from the project directory:
-    ```bash
-    jupyter notebook
-    ```
+   ```bash
+   cd computational-theory
+   ```
+3. **Open the project in an IDE or Jupyter Notebook**
+   You can open the project files in any IDE like Visual Studio Code or in Jupyter Notebook if you prefer. To open the project in Jupyter Notebook, ensure you have Jupyter installed, and then run the following command from the project directory:
+   ```bash
+   jupyter notebook
+   ```
+
