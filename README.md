@@ -68,7 +68,7 @@ For those who prefer not to install software locally, GitHub Codespaces provides
 2. **Start your Codespace:**
     - Go to the `Code` button, select `Codespaces`, and then select `Create codespace on main`.
     - A new tab will open in your browser; just wait for it to load and then move on the next time.
-3. **Run Jupyter Notebook:
+3. **Run Jupyter Notebook:**
     - Within Codespaces, open a terminal and type:
     ```bash
         gh cs jupyter
