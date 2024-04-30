@@ -10,8 +10,8 @@ This repository contains a Jupyter Notebook that delves into the computational a
 ## Countdown Game Rules
 
 - Participants are given six numbers from two pools: one pool, which consists of any of the following numbers: 25, 50, 75, 100 and the second pool, which consists of numbers between 1 to 10.
-- A target number between 101 and 999.
-- Players can use addition, subtraction, multiplication, and division.
+- Participants are then given a target number between 101 and 999.
+- Participants can use addition, subtraction, multiplication, and division.
 - The goal is to reach the target number using the given numbers and operations.
 - The Operations must return integer results.
 - Each number can only be used once per game.
